@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ioanmihalca-click
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning web development
 
 - ⚡ I'm creating music since i was a kid, i own a Sport Club where i'm a kickboxing and functional fitness coach.
 <!---
